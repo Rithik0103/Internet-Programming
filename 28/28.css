@@ -1,0 +1,55 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5; 
+    background-image: url("D:\rithik\Internet Programming\28\back.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+ul {
+    list-style-type: none;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+

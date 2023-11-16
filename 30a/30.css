@@ -1,0 +1,230 @@
+/* Reset some default browser styles */
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+}
+
+/* Navigation Bar Styles */
+nav {
+  background-color: #333;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Section Styles */
+section {
+  padding: 20px;
+  margin: 20px 0;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+/* Article List Styles */
+ul {
+  list-style: none;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+/* Contact Section Styles */
+p {
+  margin-bottom: 10px;
+}
+
+/* Footer Styles */
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+}
+/* Styles for Editorial Board Section */
+#editorial-board {
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+#editorial-board h2 {
+    color: #333;
+}
+
+#editorial-board ul {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+#editorial-board li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#editorial-board a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+#editorial-board a:hover {
+    color: #007bff;
+}
+
+#editorial-board div {
+    margin-top: 20px;
+}
+
+#editorial-board h3 {
+    color: #333;
+}
+/* Styles for Reviewers Section */
+#reviewers {
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+#reviewers h2 {
+    color: #333;
+}
+
+#reviewers ul {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+#reviewers li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#reviewers a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+#reviewers a:hover {
+    color: #007bff;
+}
+
+#reviewers div {
+    margin-top: 20px;
+}
+
+#reviewers h3 {
+    color: #333;
+}
+/* Styles for Authors Section */
+#authors {
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+#authors h2 {
+    color: #333;
+}
+
+#authors ul {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+#authors li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#authors a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+#authors a:hover {
+    color: #007bff;
+}
+
+#authors div {
+    margin-top: 20px;
+}
+
+#authors h3 {
+    color: #333;
+}
+/* Styles for Call for Paper Section */
+#call-for-paper {
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+#call-for-paper h2 {
+    color: #333;
+}
+
+#call-for-paper ul {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+#call-for-paper li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#call-for-paper a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+#call-for-paper a:hover {
+    color: #007bff;
+}
+
+#call-for-paper div {
+    margin-top: 20px;
+}
+
+#call-for-paper h3 {
+    color: #333;
+}
+
+/* Styles for Footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
